@@ -14,4 +14,22 @@ Jumpstart your web presence with our collection of free and customizable website
 3. Customize the files based on your preferences
 4. Launch your website and make your mark online!
 
+# Free Website Templates with Code View
+
+Explore our collection of free website templates featuring a dedicated "Code View" section. All codes are meticulously organized for easy access and modification. This repository is a collaborative effort, and every piece of code is freely available, uploaded with explicit permission from the contributors.
+
+## Code View Feature
+- Well-structured code snippets for easy understanding
+- Conveniently organized for quick access and modification
+- Enhance your website with seamless integration of provided code
+
+## Usage Permissions
+All templates are uploaded with explicit permission from the respective creators. Only those who have granted permission are included in this collection.
+
+## How to Use
+1. Clone or download the repository
+2. Navigate to the "code-view" directory for accessible code snippets
+3. Choose a template and integrate the code into your project
+4. Ensure compliance with the permissions granted by the original contributors
+
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
