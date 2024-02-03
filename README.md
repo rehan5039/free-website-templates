@@ -31,5 +31,6 @@ All templates are uploaded with explicit permission from the respective creators
 2. Navigate to the "code-view" directory for accessible code snippets
 3. Choose a template and integrate the code into your project
 4. Ensure compliance with the permissions granted by the original contributors
+5. If you see a zip file of website template inside a folder, then Extract it and view the content inside it.
 
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
