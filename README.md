@@ -1,4 +1,4 @@
-# Free Website Templates
+# Free Website Templates && Tools
 
 Jumpstart your web presence with our collection of free and customizable website templates. These templates are designed to be user-friendly, requiring minimal coding knowledge. Simply download the template, customize it to fit your needs, and launch your website effortlessly. Explore various styles and layouts to find the perfect match for your online project. 
 
