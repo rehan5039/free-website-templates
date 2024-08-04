@@ -1,4 +1,4 @@
-Warp 1.1.1.1 — The free app that makes your Internet faster Premium key
+Warp 1.1.1.1 — Premium key
 
 key: 1nO20H7Y-k107FB6p-5fjMR823, quota: 24598562000000000
 key: 6bI8h23E-1v47m6yW-H15z7W6h, quota: 24598562000000000
